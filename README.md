@@ -8,6 +8,7 @@
 
 ## Installation
 You can play 廻速 a this link: [https://i.simmer.io/@giacomocori](https://i.simmer.io/@giacomocorino/mawarisoku)
+
 To download the project:
 1. Download the game files.
 2. Extract the downloaded ZIP file.
